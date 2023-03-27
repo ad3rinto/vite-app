@@ -9,7 +9,6 @@ function App() {
     <div>
       <Message />
       <Message />
-      <Message />
     </div>
   );
 }
